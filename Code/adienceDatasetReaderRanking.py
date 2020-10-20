@@ -188,7 +188,7 @@ def get_ranking_label(label_list):
             target_4.append(1) 
             target_5.append(0) 
             target_6.append(0)
-        elif i ==5:
+        elif i ==6:
             target_0.append(1)
             target_1.append(1) 
             target_2.append(1) 
